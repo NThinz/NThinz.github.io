@@ -248,7 +248,7 @@ body.dark-theme .navbar-dark .navbar-toggler .navbar-toggler-icon {
   margin-right: 0px;
 }
 
-@media (min-width: 412px) {
+@media (min-width: 375px) {
   .mt-3 {
     margin-top: 0px !important;
     margin-left: -6px !important;
